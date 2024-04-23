@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>fonts/Ubuntu.ttf</file>
+        <file>fonts/digital-7__mono_.ttf</file>
+        <file>icons/halac_logo.png</file>
+    </qresource>
+</RCC>
